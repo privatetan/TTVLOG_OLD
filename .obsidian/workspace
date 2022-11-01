@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "5d85f3e330e349a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ccc9e85dfbfbf93",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "工作笔记/git使用笔记.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e8a0b525fbad3c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "65af9a72e83f4890",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "720db227e5ed8cbc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1bc690b24f23f5d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64437455f9b92fa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "107360c5175f9e71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a96fa446ce0a8b91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工作笔记/git使用笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0ccc9e85dfbfbf93",
+  "lastOpenFiles": [
+    "工作笔记/git使用笔记.md",
+    "未命名.md",
+    "README.md",
+    "mac电脑文件备份/zshrc.md",
+    "WEB3/Resoures.md",
+    "Redis进阶-事件.pdf",
+    "技术笔记/pattern/README.md",
+    "技术笔记/gc/algorithm.md",
+    "swift/swift/基础/1.变量、常量与字面量.md"
+  ]
+}
